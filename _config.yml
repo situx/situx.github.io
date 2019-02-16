@@ -1,0 +1,64 @@
+# Site settings
+title: situx
+description: My personal homepage
+email: msn06@freenet.de
+baseurl: /
+url: "http://situx.github.io" # the base hostname & protocol for your site
+#favicon
+favicon: /favicon.png
+
+#feed
+feedburner_username: maangalabs
+#twitter
+twitter_username: situxxx
+github_username:  situx
+
+#linkedin
+linkedin_username: timo-homburg-b8865473
+
+stackexchange: 4142137
+
+#google analytics
+google_analytics:   UA-106048160-1
+
+#fb_username
+fb_username: pranav.tayberrycreative
+
+gscholar: Ww8a7E0AAAAJ
+
+researchgate: Timo_Homburg
+
+orcid: 0000-0002-9499-5840
+
+#permalink /blog/2014/11/11/this-is-a-sample-post
+permalink: /blog/:year/:month/:day/:title
+# Build settings
+markdown: kramdown
+
+#Disqus configuration
+disqus_short_name: situx
+disqus_show_comment_count: true
+
+#Can be used for multiple author blogs ! Add name to post For more visit the sample
+authors:
+  situx:
+    display_name: situx
+    email: msn06@freenet.de
+    linkedin: timo-homburg-b8865473
+    twitter: situxxx
+    github: situx
+
+## code highlight options
+syntax_highlighter: rouge
+input: GFM
+    
+gems:
+  - github-pages
+  - font-awesome-sass
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jemoji
+  
+include: [".htaccess"]
+  
