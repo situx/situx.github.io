@@ -31,5 +31,5 @@ My Github projects include programs in the following categories
 
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.homepage }}) {{repository.description}} [Repository]({{repository.html_url}})
-  [{{repository.language}}] 
+  [{{repository.language}}] <img src="https://travis-ci.com/situx/{{repository.name}}.svg?branch=master"/>
 {% endfor %}
