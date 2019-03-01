@@ -1,3 +1,16 @@
+@article{scherlunoldhomburg2019,
+author={Scherl, Magdalena and Unold, Martin and Homburg, Timo},
+title={Ein unscharfer Suchalgorithmus für Transkriptionen von arabischen Ortsnamen},
+journal={Computing},
+year={2019},
+month={March},
+day={29},
+address={Frankfurt, Germany},
+publisher={DH 2019},
+language={german},
+abstract={Digitale Ortsverzeichnisse (Gazetteers) beinhalten Informationen über Orte sowie deren geographische Lage. Eine der grundlegendsten Aufgaben im Umgang mit solchen Ortsverzeichnissen ist die Suche nach Ortsnamen. Diese Suche kann sehr schwierig sein für Ortsnamen, die in verschiedenen Transliterations- oder Transkriptionsvarianten vorliegen, wie es oft bei arabischen Ortsnamen der Fall ist. In diesen Fällen reicht eine reine Volltextsuche nicht aus. Hier können unscharfe String-Matching-Algorithmen eine bessere Trefferquote für Suchen erreichen.Unser Ziel war es, einen Suchalgorithmus zu entwickeln, der in der Lage ist, arabische Ortsnamen in verschiedenen Transliterationen und Transkriptionen zu identifizieren. Einerseits sollte der Algorithmus fehlertolerant sein, sodass er einen Suchbegriff findet, selbst wenn er etwas anders geschrieben wurde als im Ortsverzeichnis hinterlegt. Andererseits sollte er genau genug sein, um nur tatsächliche Transliterations- und Transkriptionsvarianten einzuschließen. Zum Beispiel sollte die Suche nach "Agaga" den Ort "Ajaja" finden, da es sich um verschiedene Transliterationen des selben arabischen Wortes handelt, aber nicht "Dagaga", da dies ein ganz anderer Ort ist. Um diese beiden Ziele zu erreichen, haben wir einen Algorithmus mit einer modifizierten gewichteten Levenshtein-Distanz (Levenshtein 1965) entwickelt. Eine weitere Eigenschaft unseres Suchalgorithmus ist, dass er für andere Anwendungsfälle als arabische Schrift leicht angepasst werden kann. Wir haben daher auch eine Version für Keilschriftsprachen implementiert und auf einem sumerischen Wörterbuch getestet.}
+}
+
 @article{Prudhomme2019,
 author={Prudhomme, Claire and Homburg, Timo and Ponciano, Jean-Jacques and Boochs, Frank and Cruz, Christophe and Roxin, Ana-Maria},
 title={Interpretation and automatic integration of geospatial data into the Semantic Web},
@@ -9,10 +22,7 @@ pages={1--27},
 publisher={Springer International Publishing},
 address={Cham, Switzerland},
 language={english},
-abstract={In the context of disaster management, geospatial information plays a crucial role in the decision-making process to protect and save the population. Gathering a maximum of information from different sources to oversee the current situation is a complex task due to the diversity of data formats and structures. Although several approaches have been designed to integrate data from different sources into an ontology, they mainly require background knowledge of the data. However, non-standard data set schema (NSDS) of relational geospatial data retrieved from e.g. web feature services are not always documented. This lack of background knowledge is a major challenge for automatic semantic data integration. Focusing on this problem, this article presents an automatic approach for geospatial data integration in NSDS. This approach does a schema mapping according to the result of an ontology matching corresponding to a semantic interpretation process. This process is based on geocoding and natural language processing. This article extends work done in a previous publication by an improved unit detection algorithm, data quality and provenance enrichments, the detection of feature clusters. It also presents an improved evaluation process to better assess the performance of this approach compared to a manually created ontology. These experiments have shown the automatic approach obtains an error of semantic interpretation around 10\% according to a manual approach.},
-issn={1436-5057},
-doi={10.1007/s00607-019-00701-y},
-url={https://doi.org/10.1007/s00607-019-00701-y}
+abstract={In the context of disaster management, geospatial information plays a crucial role in the decision-making process to protect and save the population. Gathering a maximum of information from different sources to oversee the current situation is a complex task due to the diversity of data formats and structures. Although several approaches have been designed to integrate data from different sources into an ontology, they mainly require background knowledge of the data. However, non-standard data set schema (NSDS) of relational geospatial data retrieved from e.g. web feature services are not always documented. This lack of background knowledge is a major challenge for automatic semantic data integration. Focusing on this problem, this article presents an automatic approach for geospatial data integration in NSDS. This approach does a schema mapping according to the result of an ontology matching corresponding to a semantic interpretation process. This process is based on geocoding and natural language processing. This article extends work done in a previous publication by an improved unit detection algorithm, data quality and provenance enrichments, the detection of feature clusters. It also presents an improved evaluation process to better assess the performance of this approach compared to a manually created ontology. These experiments have shown the automatic approach obtains an error of semantic interpretation around 10\% according to a manual approach.}
 }
 
 @inproceedings{homburg2018semgis,
