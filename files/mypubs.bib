@@ -1,3 +1,34 @@
+@article{homburgpaleo2019,
+author={Homburg, Timo},
+title={Paleo Codage - A machine-readable way to describe
+cuneiform characters paleographically},
+journal={Computing},
+year={2019},
+month={July},
+day={12},
+address={Utrecht, Netherlands},
+publisher={DH 2019},
+language={english},
+abstract={Cuneiform characters have been described using various systems in the past and
+the varieties of systems used in the literature as well as in daily work varies from
+language to discipline. Commonly, sign lists Borger (1971, 2004), Deimel & Gössmann
+(1947), Rüster & Neu (1989) are created and published in the form of dictionaries
+in a non-machine-readable form. Similarly, for computers, the only way
+to distinguish cuneiform characters is currently to assign them different numbers
+in a list (e.g. Unicode Unicode Staff (1991)) and consider a distinction on
+this level. Therefore we are left with many systems and numbers to describe the
+same cuneiform sign. (Figure 3). Contrary to listing cuneiform signs, Gottstein
+(2012) took another approach in creating a searchable cuneiform character encoding
+based on wedge types which would be implemented in applications such as
+CuneiPainter1 Homburg et al. (2015). Character image recognition has also been
+performed in the past Mara et al. (2010), but never yielded a machine-readable
+representation of a cuneiform characters paleographic information which could
+have been useful as a means of validation for machine learning recognitions. This
+publication therefore introduces Paleo Codage, a paleographic distinct machinereadable
+description inspired by the Manuel de Codage encoding van den Berg
+(1997) for Egyptian Hieroglyphs.}
+}
+
 @article{scherlunoldhomburg2019,
 author={Scherl, Magdalena and Unold, Martin and Homburg, Timo},
 title={Ein unscharfer Suchalgorithmus für Transkriptionen von arabischen Ortsnamen},
@@ -6,7 +37,7 @@ year={2019},
 month={March},
 day={29},
 address={Frankfurt, Germany},
-publisher={DH 2019},
+publisher={DHd 2019},
 language={german},
 abstract={Digitale Ortsverzeichnisse (Gazetteers) beinhalten Informationen über Orte sowie deren geographische Lage. Eine der grundlegendsten Aufgaben im Umgang mit solchen Ortsverzeichnissen ist die Suche nach Ortsnamen. Diese Suche kann sehr schwierig sein für Ortsnamen, die in verschiedenen Transliterations- oder Transkriptionsvarianten vorliegen, wie es oft bei arabischen Ortsnamen der Fall ist. In diesen Fällen reicht eine reine Volltextsuche nicht aus. Hier können unscharfe String-Matching-Algorithmen eine bessere Trefferquote für Suchen erreichen.Unser Ziel war es, einen Suchalgorithmus zu entwickeln, der in der Lage ist, arabische Ortsnamen in verschiedenen Transliterationen und Transkriptionen zu identifizieren. Einerseits sollte der Algorithmus fehlertolerant sein, sodass er einen Suchbegriff findet, selbst wenn er etwas anders geschrieben wurde als im Ortsverzeichnis hinterlegt. Andererseits sollte er genau genug sein, um nur tatsächliche Transliterations- und Transkriptionsvarianten einzuschließen. Zum Beispiel sollte die Suche nach "Agaga" den Ort "Ajaja" finden, da es sich um verschiedene Transliterationen des selben arabischen Wortes handelt, aber nicht "Dagaga", da dies ein ganz anderer Ort ist. Um diese beiden Ziele zu erreichen, haben wir einen Algorithmus mit einer modifizierten gewichteten Levenshtein-Distanz (Levenshtein 1965) entwickelt. Eine weitere Eigenschaft unseres Suchalgorithmus ist, dass er für andere Anwendungsfälle als arabische Schrift leicht angepasst werden kann. Wir haben daher auch eine Version für Keilschriftsprachen implementiert und auf einem sumerischen Wörterbuch getestet.}
 }
