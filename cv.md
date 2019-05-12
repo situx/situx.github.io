@@ -65,14 +65,14 @@ Oct 2008 - <br/>Feb 2012
 
  Teaching Experience
 ----------
-
+Oct 2019 -  <br/>Feb 2020<br/>
 Oct 2018 -  <br/>Feb 2019
 : **Lecturer** [Mainz University of Applied Sciences](http://www.hs-mainz.de), Mainz/Germany
 Industry: Research
 
     *Teaching experience as lecturer in the courses "Applicationbased Software Engineering in VB.NET"*
 
-Oct 2017 -  <br/>Feb 2019
+Oct 2017 -  <br/>Jul 2019
 : **Lecturer** [RheinMain University of Applied Sciences](http://www.hs-rm.de), Wiesbaden/Germany
 Industry: Research
 
@@ -83,13 +83,13 @@ Industry: Research
 Working Experience
 ----------
 
-Oct 2017 - <br/>May 2019
+Oct 2017 - <br/>Dez 2019
 : **Systemadministrator** [Mainz University Of Applied Sciences](http://www.i3mainz.de), Mainz/Germany
 Industry: Research
 
     *System Administrator of the research group [i3Mainz](http://www.i3mainz.de)*
 
-Apr 2015 -  <br/>May 2019
+Apr 2015 -  <br/>Dez 2019
 : **Researcher** [Mainz University Of Applied Sciences](http://www.i3mainz.de), Mainz/Germany
 Industry: Research
 Taking part in the [SemGIS project](http://i3mainz.hs-mainz.de/de/projekte/semanticgis)
