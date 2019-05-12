@@ -65,7 +65,12 @@ Oct 2008 - <br/>Feb 2012
 
  Teaching Experience
 ----------
-Oct 2019 -  <br/>Feb 2020<br/>
+Oct 2019 -  <br/>Feb 2020
+: **Lecturer** [Mainz University of Applied Sciences](http://www.hs-mainz.de), Mainz/Germany
+Industry: Research
+
+    *Teaching experience as lecturer in the courses "Applicationbased Software Engineering in VB.NET"*
+
 Oct 2018 -  <br/>Feb 2019
 : **Lecturer** [Mainz University of Applied Sciences](http://www.hs-mainz.de), Mainz/Germany
 Industry: Research
