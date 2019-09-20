@@ -240,6 +240,12 @@ Jan 2011
 
 Peer Reviewing for Conferences and Journals
 ----------------------------------------
+Nov 2019
+:  [DH2020](https://dh2020.adho.org/)
+
+Sep 2019
+:  [DHd2020](https://dhd2020.de/)
+
 Dec 2018
 :  [DH2019](https://dh2019.adho.org)
 
