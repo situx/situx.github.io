@@ -360,7 +360,7 @@ Student projects:
 Member of Organisations/Committees
 ----------------------------------------
 
-Sep 2019 <br/> Sep 2020
+Sep 2019 -<br/> Sep 2020
 : [Member of the Working Group of Architecture, Federal Agency for Cartography and Geodesy, Germany](https://www.geoportal.de/DE/GDI-DE/Arbeitskreise/Architektur/architektur.html%3bjsessionid=67D3D8B52FECB85696BC7CC2E9E4CF80?lang=de)
 
 Since Apr 2019
@@ -381,7 +381,6 @@ Nov 2005
 : [European Car Driving License](https://ec.europa.eu/transport/road_safety/topics/driving-licence/eu-driving_licence_en), Class: B
 
 Interests
-
 : Travelling, Swimming, Biking
 
 ----
