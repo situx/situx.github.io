@@ -21,5 +21,6 @@ tags:
 - research
 bibtex: /files/mypubs.bib
 ---
-<script src='https://bibbase.org/show?bib=https://situx.github.io/files/mypubs.bib&token=e3f1d6b40b438f7df43fdd39a05adc93&folding=0&jsonp=1'>
+<input type="hidden" value="&token=e3f1d6b40b438f7df43fdd39a05adc93"/>
+<script src='https://bibbase.org/show?bib=https://situx.github.io/files/mypubs.bib&token=118831f3c83696841bf35467e4a06bbc&folding=0&jsonp=1'>
 </script>
