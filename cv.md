@@ -220,6 +220,12 @@ Software Development:
 
 Awards
 ----------------------------------------
+ Nov 2020
+ :  [ISWC Best Student Paper Award](https://situx.github.io/files/beststudentpaperiswc.pdf)
+ 
+ Oct 2020
+ :  [FIG Paper Of the Month](https://fig.net/resources/monthly_articles/2020/Thiery_etal_October_2020.asp)
+ 
  Apr 2017
  :  [WebIST Best Student Paper Award](https://situx.github.io/files/certificate-BestStudentPaper.pdf)
 
