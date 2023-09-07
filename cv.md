@@ -220,6 +220,9 @@ Software Development:
 
 Awards
 ----------------------------------------
+ Sep 2023
+ :  [GCH 2023 Best Paper Award](https://situx.github.io/files/gch2023bestpaperaward.pdf)
+ 
  Nov 2020
  :  [ISWC Best Student Paper Award](https://situx.github.io/files/beststudentpaperiswc.pdf)
  
