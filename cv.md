@@ -37,10 +37,10 @@ Timo Homburg
 Education
 ---------
 
-Apr 2015 - <br/>Jul 2019
-: **PhD, Computer Science** (expected); [University Koblenz-Landau](https://west.uni-koblenz.de) (Koblenz, Germany)
+Apr 2019 - <br/>Jul 2024
+: **PhD, Computer Science** (expected); [University Halle-Wittenberg](https://uni-halle.de) (Halle, Germany)
 
-    *Phd Thesis in Semantic Quality Assement and Quality Prediction of OpenStreetMap areas.*
+    *Phd Thesis Linked Open data for languages written in the cuneiform script.*
 
 Jul 2013 - <br/>Aug 2013
 :   **Summer School: Doing Business in Africa**; [Polytechnic Of Namibia](http://www.nust.na) (Windhoek, Namibia) (Grade: B)
@@ -94,7 +94,7 @@ Industry: Research
 
     *System Administrator of the research group [i3Mainz](http://www.i3mainz.de)*
 
-Apr 2015 -  <br/>Dez 2019
+Apr 2015 -  <br/>
 : **Researcher** [Mainz University Of Applied Sciences](http://www.i3mainz.de), Mainz/Germany
 Industry: Research
 Taking part in the [SemGIS project](http://i3mainz.hs-mainz.de/de/projekte/semanticgis)
