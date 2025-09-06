@@ -220,6 +220,9 @@ Software Development:
 
 Awards
 ----------------------------------------
+ Sep 2025
+ :  [IEEE Cyberhumanities Best Innovation Paper Award 2025](https://situx.github.io/files/2025_IEEECH_Best_Paper_Innovation_Award.pdf)
+ 
  Sep 2023
  :  [GCH 2023 Best Paper Award](https://situx.github.io/files/gch2023bestpaperaward.pdf)
  
